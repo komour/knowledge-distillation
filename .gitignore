@@ -132,4 +132,4 @@ dmypy.json
 .idea/
 
 # Dataset
-CIFAR10/
+dataset/
